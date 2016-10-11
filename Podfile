@@ -12,7 +12,7 @@ target 'test3' do
   pod ’Firebase/Database’
 
   #facebook pod
-  pod 'Bolts'
+  
   pod 'FBSDKCoreKit'
   pod 'FBSDKShareKit'
   pod 'FBSDKLoginKit'
