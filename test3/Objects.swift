@@ -19,15 +19,7 @@ let inputscontainerview: UIView = {
     return view
 }()
 
-let loginregisterbuttuon: UIButton = {
-    let button = UIButton(type: .System)
-    button.backgroundColor = UIColor(r: 80, g: 101, b: 161)
-    button.setTitle("Register", forState: .Normal)
-    button.setTitleColor(UIColor.whiteColor(), forState: .Normal)
-    button.layer.cornerRadius = 5
-    button.translatesAutoresizingMaskIntoConstraints = false
-    return button
-}()
+
 
 let nametextfeild: UITextField = {
     let tf = UITextField()
