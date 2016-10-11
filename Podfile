@@ -10,12 +10,9 @@ target 'test3' do
   pod 'Firebase/Auth'
   pod 'Firebase/Storage'
   pod ’Firebase/Database’
+ 
 
-  #facebook pod
-  
-  pod 'FBSDKCoreKit'
-  pod 'FBSDKShareKit'
-  pod 'FBSDKLoginKit'
+
   
 
 end
